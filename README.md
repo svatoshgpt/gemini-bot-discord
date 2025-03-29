@@ -1,1 +1,3 @@
-# gemini-bot-discord
+Exaple .env
+DISCORD_TOKEN=
+GEMINI_API_KEY=
